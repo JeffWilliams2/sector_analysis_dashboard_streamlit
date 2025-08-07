@@ -1,7 +1,7 @@
 # Sector ETF Analysis Dashboard
 ### unfinished
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sector-analysis.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sector-analysis-dashboard.streamlit.app/)
 
 An interactive financial dashboard for analyzing U.S. sector ETFs, built with Streamlit and Python. The dashboard provides sector analysis, risk metrics, and correlation insights.
 
